@@ -2,7 +2,7 @@ const Banner = () => {
     return (
         <header>
             <div>
-                <img src="./globe.svg" alt="logo" />
+                <img src="./GloboLogo.png" alt="logo" />
             </div>
             <div>
             Providing houses all over the world 
